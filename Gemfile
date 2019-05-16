@@ -37,6 +37,7 @@ group :development, :test do
   gem "byebug"
   gem "capybara"
   gem "database_cleaner"
+  gem "pry"
   gem "rspec-rails"
   gem "rubocop", "0.58.1"
 end
